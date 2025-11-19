@@ -9,6 +9,7 @@ determine reciprocal-space diffraction patterns through a 2D Fourier transform.
 Click below to run the interactive app in your browser (no installation needed):
 
 ### Launch Options
+**Note: you need to press the "Initialize view" button to see anything.**
 
 #### ▶ Web App (Voilà)
 [![Voilà](https://img.shields.io/badge/Launch-Viola-orange?logo=jupyter)](
@@ -26,6 +27,7 @@ https://mybinder.org/v2/gh/eriksvenssongrape/fft-diffraction-applet/main?filepat
 - Fractional atom sliders  
 - Real-space and reciprocal-space plots (FFT-based)  
 - True geometric deformation under lattice changes  
+
 
 
 
