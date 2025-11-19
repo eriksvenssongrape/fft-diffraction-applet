@@ -22,10 +22,11 @@ https://mybinder.org/v2/gh/eriksvenssongrape/fft-diffraction-applet/main?filepat
 
 ## Features
 
-- Adjustable `a`, `b`, and `γ` lattice parameters. 
+- Adjustable `a`, `b`, and `γ` lattice parameters.
 - Fractional atom sliders  
 - Real-space and reciprocal-space plots (FFT-based)  
 - True geometric deformation under lattice changes  
+
 
 
 
